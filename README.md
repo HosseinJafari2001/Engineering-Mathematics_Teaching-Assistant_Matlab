@@ -11,7 +11,7 @@ what you learn in this files :
 
 - and a lot of usefull projects and examples.
 
-hint::: run codes section by section !!!
+HINT::: run codes section by section !!!
 
 hope you'll be great guys... :))
 
